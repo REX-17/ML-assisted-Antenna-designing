@@ -29,9 +29,9 @@ Work Done:
 - Predicted antenna S11 values from geometry and frequency inputs
 
 Results
--High prediction accuracy
--Close agreement between CST and ML results
--Reduced dependence on repeated CST simulations
+- High prediction accuracy
+- Close agreement between CST and ML results
+- Reduced dependence on repeated CST simulations
 
 # Phase 3 — Custom Mathematical ML Model (60%)
 Objective: To develop a complete custom machine learning model without using built-in regression algorithms.
@@ -54,9 +54,9 @@ Inputs:
 - S11 (dB)
 
 Final Results
-R² ≈ 0.93
-MSE ≈ 0.88
-The custom model successfully captured antenna resonance characteristics and nonlinear electromagnetic behavior with strong agreement to CST simulation data.
+- R² ≈ 0.93
+- MSE ≈ 0.88
+- The custom model successfully captured antenna resonance characteristics and nonlinear electromagnetic behavior with strong agreement to CST simulation data.
 
 Technologies Used
 - Python
